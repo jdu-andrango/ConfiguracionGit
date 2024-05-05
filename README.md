@@ -30,9 +30,13 @@ Ventajas.
 
 # configuracion de git local
 
+cambiar **name** por su nombre
+
+cambiar **email** por su email 
+
 ```
 [user]
-name = jonathan
+name = jonathan 
 email = jdu.andrango@yavirac.edu.ec
 [init]
 defaultBranch = main
@@ -45,6 +49,16 @@ m = commit -m
 p = push -u origin
 ```
 
+# Nota
+
+#### es importante resaltar que para poder desembolvernos tenemos que utilizar la palabra **git** al inicio de cada comando
+
 ## Comandos para el uso de git
 
-comando para el **inicio de git** en nuestro proyecto, en cualquier proyecto que se desee solo ubicandonos en la carpeta raiz de nuestro proyecto y colocar el siguente comando en la terminal o en la terminal de nuestro editor de codigo visual estudi code.
+### **Inicio** de un repositorio de git en nuestro proyecto de manera local
+
+comando para el **inicio de git** en nuestro proyecto, en cualquier proyecto que se desee solo ubicandonos en la carpeta raiz de nuestro proyecto y colocar el siguente comando en la terminal o en la terminal de nuestro editor de codigo [visual estudio code]([https://](https://code.visualstudio.com/)https://).
+
+```
+git init
+```
