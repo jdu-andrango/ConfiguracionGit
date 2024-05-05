@@ -49,10 +49,6 @@ m = commit -m
 p = push -u origin
 ```
 
-# Nota
-
-#### es importante resaltar que para poder desembolvernos tenemos que utilizar la palabra **git** al inicio de cada comando
-
 ## Comandos para el uso de git
 
 ### **Inicio** de un repositorio de git en nuestro proyecto de manera local
